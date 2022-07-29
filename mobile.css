@@ -20,8 +20,8 @@ body {
 
 h1 {
     margin: 0;
-    font-size: 30px;
-    padding: 10px;
+    font-size: 38px;
+    padding: 18px;
     font-family: "Luckiest Guy", cursive;
     color: white;
     text-align: center;
@@ -67,12 +67,12 @@ span:last-child {
 }
 
 div {
-    width: 280px;
-    height: 200px;
+    width: 330px;
+    height: 250px;
     background-color: #fff;
-    margin: 5px;
+    margin: 15px;
     font-family: Arial, Helvetica, sans-serif;
-    font-size: 12px;
+    font-size: 18px;
     padding: 5px;
     text-align: center;
     box-shadow: 2px 2px 5px 2px #aaa;
@@ -80,7 +80,7 @@ div {
 
 input[type=number] {
     width: 84px;
-    font-size: 13px;
+    font-size: 20px;
     padding: 8px;
     margin: 0px 8px 8px 8px;
 }
@@ -88,7 +88,7 @@ input[type=number] {
 button {
     text-transform: uppercase;
     font-weight: 900;
-    font-size: 18px;
+    font-size: 22px;
     margin: 12px 0;
     padding: 8px;
     cursor: pointer;
@@ -96,8 +96,8 @@ button {
 }
 
 input[type=text] {
-    font-size: 20px;
-    padding: 3px 0;
+    font-size: 25px;
+    padding: 8px 0;
     font-weight: 900;
     text-align: center;
     background-color: #f7f7f7;
@@ -107,7 +107,7 @@ input[type=text] {
 
 footer{
     font-family: Arial, Helvetica, sans-serif;
-    position:inherit;
+    margin: auto;
     line-height: 15px;
     width: 100%;
     font-size: 12px;
