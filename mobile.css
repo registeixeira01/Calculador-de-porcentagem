@@ -98,6 +98,7 @@ button {
 input[type=text] {
     font-size: 25px;
     padding: 8px 0;
+    width: auto;
     font-weight: 900;
     text-align: center;
     background-color: #f7f7f7;
